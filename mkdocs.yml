@@ -6,6 +6,9 @@ theme:
   font: false
   logo: https://x.scambi.org/logo/scambi_yellow.svg
   favicon: https://x.scambi.org/favicon.ico
+  repo_url: https://github.com/scambifestival/manuale
+  features:
+    - navigation.instant
 extra_css:
   - scambi.css
 markdown_extensions:
@@ -24,6 +27,10 @@ plugins:
       lang: 
         - en
         - it
+  - social:
+      cards_color:
+        fill: "#69088D" 
+        text: "#FFFFFF"
 extra:
   alternate:
     - name: 🇬🇧
