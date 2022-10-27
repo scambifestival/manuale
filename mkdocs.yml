@@ -1,12 +1,15 @@
 site_name: Manuale di Scambiologia
 docs_dir: manuale
+site_url: https://manuale.scambi.org
+repo_url: https://github.com/scambifestival/manuale
+repo_name: scambifestival/manuale
+edit_uri: edit/main/manuale/
 theme:
   name: material
   language: it
   font: false
-  logo: https://x.scambi.org/logo/scambi_yellow.svg
+  logo: scambi_yellow.svg
   favicon: https://x.scambi.org/favicon.ico
-  repo_url: https://github.com/scambifestival/manuale
   features:
     - navigation.instant
 extra_css:
@@ -23,6 +26,7 @@ markdown_extensions:
   - toc:
       permalink: true
 plugins:
+  - git-authors
   - search:
       lang: 
         - en
@@ -31,11 +35,6 @@ plugins:
       cards_color:
         fill: "#69088D" 
         text: "#FFFFFF"
-extra:
-  alternate:
-    - name: 🇬🇧
-      link: /en/ 
-      lang: en
-    - name: 🇮🇹
-      link: /
-      lang: it
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
