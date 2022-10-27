@@ -4,8 +4,10 @@ theme:
   name: material
   language: it
   font: false
-  logo: https://x.scambi.org/scambi.svg
+  logo: https://x.scambi.org/logo/scambi_yellow.svg
   favicon: https://x.scambi.org/favicon.ico
+extra_css:
+  - scambi.css
 markdown_extensions:
   - abbr
   - admonition
