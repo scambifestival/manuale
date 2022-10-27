@@ -1,11 +1,9 @@
 ---
+title: 📖 Manuale
 description: >-
   Istruzioni per modificare e aggiornare questo favoloso insuperabile vitale
   manuale di sapienza
 ---
-
-# 📖 Manuale
-
 ## Modifica
 
 A livello tecnico, questo manuale funziona esattamente come [il nostro sito](scambi.org.md). Dunque, per aggiornarlo o modificarlo è sufficiente seguire [le istruzioni per la creazione di una pagina sul sito](scambi.org.md#nuova-pagina), con la sola differenza che la cartella contenente tutte le pagine è [la cartella “Manual”](https://nuvola.scambi.org/f/248325).
