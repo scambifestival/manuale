@@ -16,7 +16,7 @@ APS Oltre è iscritta al [Registro degli Enti del Terzo Settore della Regione Li
 **IBAN**: IT63E0501801400000016986952  
 [**PayPal**](https://paypal.me/apsoltre)
 
-**Sede legale**
+### Sede legale
 
 Via Dante Alighieri, 81  
 18038 Sanremo (IM), Italia

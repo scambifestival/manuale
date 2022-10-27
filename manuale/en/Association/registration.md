@@ -2,7 +2,7 @@
 title: 📩 Registration of new members
 description: The steps to be followed in order to register a new member of the A.P.S. Oltre
 ---
-After the trial period of 2-3 weeks, the [Turtles](../staff/Teams.md#turtles) will guide the [_new entry_](../staff/New-entry.md) through the following registration process in order to officially become a member of [A.P.S. Oltre](./), and effectively a member of the Scambi [staff](../staff/).
+After the trial period of 2-3 weeks, the [Turtles](../staff/teams.md#turtles) will guide the [_new entry_](../staff/new-entry.md) through the following registration process in order to officially become a member of [A.P.S. Oltre](./), and effectively a member of the Scambi [staff](../staff/).
 
 ## Active member
 

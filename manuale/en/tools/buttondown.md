@@ -10,7 +10,7 @@
 1. Go to [buttondown.email/emails](https://buttondown.email/emails)
 2. Utilizzare l’editor Markdown cliccando su `Markdown` e attivare la _preview_ cliccando su `Showing preview`
 3. Activate immediately the automatic saving by clicking on `Autosave`, in the bottom-right: [![](https://x.scambi.org/assets/manual/buttondown-autosave.png)
-4. Write the text of the email using the [Markdown](https://github.com/scambifestival/manuale/blob/f0f2dbfa61f68b84285d95c99186a45aa8e46a15/en/Platforms-and-tools/Markdown.md) syntax.
+4. Write the text of the email using the [Markdown](markdown.md) syntax.
 5. It is possible to schedule the newsletter, by clicking on `Sending immediately` and by choosing the date and time on the window that will appear.
 6. It is possible to select just some members to which we want to send the newsletter, or, otherwise, we can select those we want to exclude. In the following image, the email will be sent only to the member tagged with `Dissolvenze` and, at the same time, to all of them not being tagged as `Italian`. To select the group, click just once, otherwise to exclude a group, just double click.  
    [![](https://x.scambi.org/assets/manual/buttondown-sending-to.png)

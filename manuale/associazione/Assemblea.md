@@ -2,7 +2,7 @@
 title: Assemblea
 description: L’assemblea dei soci è la riunione in cui i soci partecipano all’amministrazione dell’associazione.
 ---
-L’assemblea è una riunione formale con valore ufficiale, a cui sono tenuti a partecipare **tutti i soci** dell’[associazione](./), inclusi i simpatizzanti e gli onorari. Generalmente, ogni anno si tengono quattro assemblee (in media, una **ogni tre mesi**).
+L’assemblea è una riunione formale con valore ufficiale, a cui sono tenuti a partecipare **tutti i soci** dell’[associazione](README.md), inclusi i simpatizzanti e gli onorari. Generalmente, ogni anno si tengono quattro assemblee (in media, una **ogni tre mesi**).
 
 Nel dettaglio, l’assemblea viene convocata e si svolge secondo l’[articolo 9 dello statuto](statuto.md#art.-9-assemblea):
 
@@ -32,7 +32,7 @@ Nel dettaglio, l’assemblea viene convocata e si svolge secondo l’[articolo 9
 >		8. delibera lo scioglimento, la trasformazione, la fusione o la scissione dell’associazione;
 >		9. delibera sugli altri oggetti attribuiti dalla legge, dall’atto costitutivo o dallo statuto alla sua competenza.
 
-[Assemblea](Assemblea.md){ .md-button }
+[Assemblea](assemblea.md){ .md-button }
 
 Come specificato nel comma 7 dell’[articolo 9 dello statuto](statuto.md#art.-9-assemblea), i soci assenti potranno delegare un altro socio per votare in loro vece. I soci presenti potranno rappresentare <mark>al massimo **tre** assenti ciascuno</mark>.
 

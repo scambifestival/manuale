@@ -18,7 +18,7 @@ Quasi tutto il lavoro di burocrazia per la realizzazione del Festival consiste n
 
 | Cosa                     | Ente o ufficio responsabile                                                                | Tempistiche          |
 | ------------------------ | ------------------------------------------------------------------------------------------ | -------------------- |
-| [Permessi SIAE](siae.md) | [SIAE Sanremo](https://www.siae.it/it/chi-siamo/uffici-e-contatti/mappa-uffici/liguria/07) | qualche giorno prima |
+| [Permessi SIAE](SIAE.md) | [SIAE Sanremo](https://www.siae.it/it/chi-siamo/uffici-e-contatti/mappa-uffici/liguria/07) | qualche giorno prima |
 
 ### Prima tranche
 

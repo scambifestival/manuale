@@ -1,7 +1,6 @@
 ---
 title: 📩 Iscrizione nuovə sociə
 ---
-
 Dopo un periodo di prova di 2-3 settimane, una [_new entry_](../staff/new-entry.md) è accompagnata da una Tartaruga nel completare il seguente procedimento, che permette di renderla a tutti gli effetti socio dell’[APS Oltre](./).
 
 !!! info

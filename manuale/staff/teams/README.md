@@ -2,7 +2,7 @@
 title: 💏 Teams
 description: Quali sono e come funzionano i nostri gruppi di lavoro
 ---
-Lo staff di Scambi Festival è suddiviso in **gruppi di lavoro**, o _team_. Ciascun _team_ si occupa di un ambito specifico, lavora separatamente, avendo una propria chat per comunicare e organizzando indipendentemente le [proprie riunioni](../../riunioni.md#team-meetings).
+Lo staff di Scambi Festival è suddiviso in **gruppi di lavoro**, o _team_. Ciascun _team_ si occupa di un ambito specifico, lavora separatamente, avendo una propria chat per comunicare e organizzando indipendentemente le [proprie riunioni](/riunioni#team-meetings).
 
 I membri di ciascun gruppo (in realtà, il team di cui ciascun socio è parte) sono specificati nel Libro Soci.
 

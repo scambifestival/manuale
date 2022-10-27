@@ -17,7 +17,7 @@ In entrambi i casi, il termine dell’operato sarà comunicato a tutti i soci tr
 
 Ciascun socio ha il diritto di candidarsi come membro del direttivo. Farne parte comporta ulteriori diritti e doveri, come spiegato [nell’articolo 10 dello statuto](../statuto.md#art.-10-organo-di-amministrazione). Oltre agli adempimenti più pratici e formali da svolgere, ci sono [alcune <mark>caratteriscithe e competenze ideali</mark>](../../staff/teams/camaleonti.md) che un membro del direttivo dovrebbe possedere.
 
-**I soci che desidereranno** candidarsi come componenti del direttivo dovranno <mark>inviare un’email a</mark> [<mark>segreteria@scambi.org</mark>](mailto:segreteria@scambi.org) <mark>entro due settimane</mark> dall’assemblea elettiva.
+**I soci che desidereranno** candidarsi come componenti del direttivo dovranno <mark>inviare un’email [segreteria@scambi.org](mailto:segreteria@scambi.org) entro due settimane</mark> dall’assemblea elettiva.
 
 L’email di candidatura dovrà contenere una lettera di massimo 1000 battute, in cui ciascun candidato dovrà—come desidera:
 
@@ -29,7 +29,7 @@ Entro una settimana dall’assemblea elettiva <mark>tutte le lettere di candidat
 
 ## Elezione
 
-L’assemblea elettiva si svolge secondo le medesime modalità di un’[assemblea ordinaria](../assemblea.md).
+L’assemblea elettiva si svolge secondo le medesime modalità di un’[assemblea ordinaria](/associazione/assemblea).
 
 Prima dell’inizio dell’elezione <mark>ciascun candidato disporrà di 90 secondi</mark> per presentarsi e argomentare come desidera circa la propria candidatura.
 

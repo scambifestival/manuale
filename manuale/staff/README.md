@@ -6,7 +6,7 @@ Scambi è ampio e complesso. Per questa ragione, chi lo realizza è organizzato 
 
 Ogni sociə ha un ruolo e ogni ruolo compone un tassello fondamentale dello staff di Scambi Festival.
 
-Tuttз sono parte di un [team](teams/) e ciascun team possiede un [Team Leader](ruoli/team-leader.md). Contemporaneamente, esistono figure che operano indipendentemente dai team, come i [PIX](pix.md) e i [referenti](ruoli/referente.md).
+Tuttз sono parte di un [team](teams/) e ciascun team possiede un [Team Leader](ruoli/team-leader.md). Contemporaneamente, esistono figure che operano indipendentemente dai team, come i [PIX](/pix) e i [referenti](ruoli/referente.md).
 
 Ciascun ingranaggio di questo meccanismo favolosamente intricato deve efficacemente incastrarsi con gli altri; è dunque fondamentale seguire le linee guida per la comunicazione interna.
 

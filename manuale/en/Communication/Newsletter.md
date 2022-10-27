@@ -1,6 +1,7 @@
-# 💌 Newsletter
-
-To send our newsletter, we use [Buttondown](../Platforms-and-tools/Buttondown.md).
+---
+title: 💌 Newsletter
+---
+To send our newsletter, we use [Buttondown](../tools/buttondown.md).
 
 The archive of all sent newsletters is [here](https://buttondown.email/scambi/archive/), while on [epistulae.scambi.org](https://epistulae.scambi.org) (which redirects to [buttondown.email/scambi](https://buttondown.email/scambi)) you will find the main webpage. [Here](https://nuvola.scambi.org/apps/passwords) you can find the credentials to login.
 

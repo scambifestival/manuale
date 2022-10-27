@@ -14,7 +14,7 @@ Per farlo nel modo giusto, tuttavia, c’è un semplice ma importante **percorso
    * è libera di cambiare team o di inserirsi in più di uno contemporaneamente;
    * per qualunque dubbio fa riferimento al proprio _Team Leader_;
    * è libera di partecipare a tutte le riunioni, di cui però deve essere informata dal _Team Leader_.
-3. Al termine del periodo di prova, il _Team Leader_ metterà in contatto la _new entry_ con il team [Tartarughe](teams/#tartarughe), che procederà alla sua [iscrizione](../associazione/iscrizione-nuov-soci.md).
+3. Al termine del periodo di prova, il _Team Leader_ metterà in contatto la _new entry_ con il team [Tartarughe](teams/#tartarughe), che procederà alla sua [iscrizione](/associazione/iscrizione).
 
 ## FAQ
 

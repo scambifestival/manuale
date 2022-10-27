@@ -1,9 +1,7 @@
 ---
 title: 📄 Statuto A.P.S. Oltre
-description: >-
-  Lo statuto è l’insieme di tutte le regole che governano l’associazione, indica
-  i diritti ed i doveri dei soci, nonché tutte le procedure amministrative da
-  seguire.
+description: Lo statuto è l’insieme di tutte le regole che governano l’associazione, indica
+ i diritti ed i doveri dei soci, nonché tutte le procedure amministrative da seguire.
 ---
 ## ART. 1 – Denominazione e sede
 
