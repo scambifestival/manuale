@@ -35,9 +35,6 @@ plugins:
       cards_color:
         fill: "#69088D" 
         text: "#FFFFFF"
-  - git-revision-date-localized:
-      enable_creation_date: true
-      type: timeago
   - i18n:
       default_language: it
       docs_structure: folder
@@ -48,3 +45,6 @@ plugins:
         it:
           name: Italian
           build: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
