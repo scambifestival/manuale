@@ -38,3 +38,13 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: timeago
+  - i18n:
+      default_language: it
+      docs_structure: folder
+      languages:
+        en:
+          name: English
+          build: true
+        it:
+          name: Italian
+          build: true
