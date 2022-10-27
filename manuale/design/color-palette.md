@@ -16,7 +16,7 @@ I codici HEX di seguito sono scritti all’interno del selettore root values di 
 
 ![](https://x.scambi.org/assets/manual/color-palette-2022.svg)
 
-##2021
+## 2021
 
 La primissima palette colori di Scambi Festival è nata piuttosto a caso da esperimenti di disegno di Miranda.
 
