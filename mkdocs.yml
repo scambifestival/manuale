@@ -1,0 +1,32 @@
+site_name: Manuale di Scambiologia
+docs_dir: manuale
+theme:
+  name: material
+  language: it
+  font: false
+  logo: https://x.scambi.org/scambi.svg
+  favicon: https://x.scambi.org/favicon.ico
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+plugins:
+  - search:
+      lang: 
+        - en
+        - it
+extra:
+  alternate:
+    - name: 🇬🇧
+      link: /en/ 
+      lang: en
+    - name: 🇮🇹
+      link: /
+      lang: it

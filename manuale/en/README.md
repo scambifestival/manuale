@@ -1,0 +1,3 @@
+_Scambi_ is a wonderful orchestra, yet surprisingly huge and complex. In order to work in harmony, all of us have to be well aware of their roles.
+
+This manual is conceived and updated in order to facilitate this task. By navigating through these pages, you should find an answer for any question you might have concerning _Scambi_ Festival’s behind the scenes. If you do not, figure out the answer yourself by asking to other fellow members of the staff, then add it here yourself!
