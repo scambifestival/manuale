@@ -1,0 +1,3 @@
+[submodule "manuale/silicon"]
+	path = manuale/silicon
+	url = https://github.com/scambifestival/silicon
