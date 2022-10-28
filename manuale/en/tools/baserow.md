@@ -1,4 +1,6 @@
-# Baserow
+---
+title: 🗄️ Baserow
+---
 
 [Baserow](https://baserow.io) is the software whose interface is operated by _Pino_, Scambi’s database. If the information on this page is not enough, before bothering the Silicon team, look for an answer on the [official forum](https://community.baserow.io).
 

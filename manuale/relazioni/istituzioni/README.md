@@ -1,8 +1,6 @@
 ---
 title: 🏢 Istituzioni
-description: >-
-  Gestione dei rapporti istituzionali obbligatori per la realizzazione del
-  festival
+description: Gestione dei rapporti istituzionali obbligatori per la realizzazione del festival
 ---
 Con “relazioni istituzionali” intendiamo tutte quelle relazioni che, per quanto faticose, è obbligatorio intrattenere per svolgere Scambi Festival in sintonia con le istituzioni che lo rendono possibile e, soprattutto, in conformità di legge.
 

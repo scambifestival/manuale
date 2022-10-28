@@ -1,6 +1,8 @@
-# Markdown
+---
+title: Markdown
+---
 
-## What is it ?
+## What is it?
 
 Wikipedia is the perfect source to understand the meaning of Markdown:
 

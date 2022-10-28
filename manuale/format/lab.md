@@ -1,4 +1,6 @@
-# 🧪 Lab
+---
+title: 🧪 Lab
+---
 
 [Il laboratorio](https://scambi.org/laboratorio) è il cuore dell’identità di Scambi Festival.
 

@@ -1,8 +1,6 @@
 ---
 title: 😈 Social
-description: >-
-  Come ci impegniamo per gestire al meglio quelle cose terribili snervanti ma
-  imprescindibili chiamate social network
+description: Come ci impegniamo per gestire al meglio quelle cose terribili snervanti ma imprescindibili chiamate social network
 ---
 Per quanto nei valori del festival sia presente una costante ricerca dell'indipendenza digitale, siamo comunque costretti ad asservirci alle brutte grosse e cattive multinazionali che gestiscono i principali social network.
 

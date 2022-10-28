@@ -1,8 +1,6 @@
 ---
-title: Buttondown
-description: >-
-  Come utilizzare Buttondown per inviare newsletter, aggiungere iscritti e
-  modificare impostazioni relative
+title: 📫 Buttondown
+description: Come utilizzare Buttondown per inviare newsletter, aggiungere iscritti e modificare impostazioni relative
 ---
 L’archivio delle newsletter passate si trova [qui](https://buttondown.email/scambi/archive/), mentre su [epistulae.scambi.org](https://epistulae.scambi.org) (che reindirizza a [buttondown.email/scambi](https://buttondown.email/scambi/)) si trova la pagina principale. Invece, le credenziali per accedere sono [qui](https://nuvola.scambi.org/apps/passwords/).
 

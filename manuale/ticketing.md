@@ -1,8 +1,6 @@
 ---
 title: 🎫 Ticketing
-description: >-
-  Come funziona il servizio di prenotazione dal punto di vista di chi prenota e
-  indicazioni sulla verifica di validità.
+description: Come funziona il servizio di prenotazione dal punto di vista di chi prenota e indicazioni sulla verifica di validità.
 ---
 Durante le edizioni del nostro festival, chi desidera partecipare a un Lab (o altre attività specifiche) deve effettuare un ordine di prenotazione.
 

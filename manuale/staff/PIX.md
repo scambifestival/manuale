@@ -1,4 +1,6 @@
-# 👯 PIX
+---
+title: 👯 PIX
+---
 
 _PIX_ sta per <cite>**P**artners in **C**rime **S**cambi</cite> (PICS → PIX), ovvero coppie formate fra tutti i [soci attivi](teams/).
 

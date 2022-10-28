@@ -1,4 +1,6 @@
-# 👯 PIX
+---
+title: 👯 PIX
+---
 
 _PIX_ stands for _**P**artners in **C**rime **S**cambi_ (PICS → PIX), namely pairs composed by [active members.](../../staff/teams/)
 

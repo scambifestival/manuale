@@ -1,8 +1,6 @@
 ---
 title: 📖 Manuale
-description: >-
-  Istruzioni per modificare e aggiornare questo favoloso insuperabile vitale
-  manuale di sapienza
+description: Istruzioni per modificare e aggiornare questo favoloso insuperabile vitale manuale di sapienza
 ---
 ## Modifica
 

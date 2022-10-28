@@ -1,4 +1,6 @@
-# Pinoli
+---
+title: Pinoli
+---
 
 Se non è un lab… è un [Pinolo](https://scambi.org/pinoli).
 

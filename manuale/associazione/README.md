@@ -1,8 +1,6 @@
 ---
 title: 🏛 Associazione
-description: >-
-  Informazioni e funzionamento dell’Associazione di Promozione Sociale Oltre, la
-  persona giuridica che organizza Scambi Festival.
+description: Informazioni e funzionamento dell’Associazione di Promozione Sociale Oltre, la persona giuridica che organizza Scambi Festival.
 ---
 _Oltre_ è un’[Associazione di Promozione Sociale](https://it.wikipedia.org/wiki/Associazione_di_promozione_sociale), fondata il 9 settembre 2020 da sette amici e soci fondatori.
 

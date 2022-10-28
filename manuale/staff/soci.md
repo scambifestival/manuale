@@ -1,4 +1,6 @@
-# 🙋 Sociə
+---
+title: 🙋 Sociə
+---
 
 Tutte le persone che lavorano a Scambi sono **socie di** [**A.P.S. Oltre**](../associazione/) e fanno parte di un [team](teams/).
 

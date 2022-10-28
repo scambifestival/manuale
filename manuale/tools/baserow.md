@@ -1,4 +1,5 @@
 ---
+title: 🗄️ Baserow
 description: Guida all’utilizzo del software per la gestione dei dati
 ---
 [Baserow](https://baserow.io) è il nome del software tramite la cui interfaccia è gestito _Pino_, il database di Scambi. Se le informazioni in questa pagina non fossero esaustive, prima di rivolgersi al povero team Silicon provare a cercare maggiori informazioni [spulciando il forum ufficiale](https://community.baserow.io).

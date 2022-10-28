@@ -1,4 +1,6 @@
-# Buttondown
+---
+title: 📫 Buttondown
+---
 
 [Buttondown](https://buttondown.email) is the software used to send Scambi Festival’s newsletters.
 

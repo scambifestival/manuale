@@ -1,4 +1,6 @@
-# 🤌 Language
+---
+title: 🤌 Language
+---
 
 Following the principles of inclusiveness and mutual respect on which Scambi is based, the language we use for our communications, both formal and informal, is _**inclusive**_** Italian** (or inclusive English).
 
