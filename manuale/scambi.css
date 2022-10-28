@@ -1,9 +1,10 @@
 :root {
 	--black-ish: #2A1532;
-	--white: #FBFBFB;
+	--off-white: #FBFBFB;
 	--dark-grey: #555;
 	--light-grey: #AAA;
 	--yellow: #FFD166;
+	--peach: #EF7D6E;
 	--blue: #233FB9;
 	--dark-blue: #11305B;
 	--light-blue: #ADCFFF;
@@ -14,11 +15,11 @@
 	--dark-purple: #480B5E;
 	--orange: #EF7D6E;
 	--darkmatazz: #D0031F;
-	--gradient: linear-gradient(98deg, #FFEDC4 0%, #E9AFFF 97%), var(--white);
-	--saturated-gradient: linear-gradient(-110deg, #FFD166 0%, #69088D 98.65%), var(--white);
+	--gradient: linear-gradient(98deg, #FFEDC4 0%, #E9AFFF 97%), var(--off-white);
+	--saturated-gradient: linear-gradient(-110deg, #FFD166 0%, #69088D 98.65%), var(--off-white);
 	--blue-gradient: linear-gradient(110deg, #233FB911, #EF7D6E44), #233FB911;
 	--blue-gradient-inverted: linear-gradient(#233FB911, #EF7D6E44), #233FB911;
-	--vertical-gradient: linear-gradient(180deg, #FFD16622, #EF7D6E33),#FFD16655;
+	--vertical-gradient: linear-gradient(180deg, #FFD16622, #EF7D6E33), #FFD16655;
 	--neat-orange-shadow: 1px 1px 0 var(--orange);
 	--neat-purple-shadow: 1px 1px 0 var(--purple);
 
@@ -36,13 +37,26 @@
 	--md-primary-bg-color--light: #FFF;
 	--md-accent-fg-color: var(--peach);
 	--md-footer-bg-color: none;
-	--md-footer-fg-color: var(--md-typeset-color);
+	--md-footer-fg-color: var(--dark-blue);
 	--darkreader-text--md-default-fg-color--light: #FFF;
 	--darkreader-text--md-accent-fg-color: var(--yellow);
 	--darkreader-text--md-typeset-a-color: var(--yellow);
 	--darkreader-bg--md-footer-bg-color: none;
 	--darkreader-bg--md-default-bg-color: var(--dark-blue);
 	--md-text-font-family: var(--font-main);
+}
+
+@media (prefers-color-scheme: dark) {
+	:root > * {
+		--md-default-fg-color: var(--off-white) !important;
+		--md-default-fg-color--light: #FFFA;
+		--md-default-fg-color--lighter: #FFF7;
+		--md-typeset-color: var(--off-white) !important;
+		--md-primary-fg-color: var(--peach);
+		--md-typeset-a-color: var(--yellow);
+		--md-primary-bg-color: var(--dark-blue);
+		--md-default-bg-color: var(--dark-blue);
+	}
 }
 
 .md-typeset h1 {
