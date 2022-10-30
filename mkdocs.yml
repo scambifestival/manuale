@@ -26,6 +26,7 @@ markdown_extensions:
   - abbr
   - admonition
   - attr_list
+  - footnotes
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
