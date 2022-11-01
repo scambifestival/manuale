@@ -41,6 +41,20 @@ Inoltre, come da [art. 5, c. 2.1](statuto.md#art.-5-associati-procedure-di-ammis
 !!! info
 	Per perseguire la massima semplicità possibile, ma contemporaneamente rispettare i nostri principi, abbiamo scelto di utilizzare una piattaforma che <mark class='red'>non limita sistematicamente i voti</mark> e, soprattutto, <mark class='red'>non prevede la funzione di “delega”</mark> di un altro socio. Sono dunque fondamentali la **lealtà** e la **serietà** di ciascun socio nel <mark>votare solamente per quante volte ne ha diritto</mark>.
 
+## Verbale
+
+All’inizio di ogni assemblea viene nominatə unə verbalista, a cui è affidato il compito di prendere nota di tutto ciò che accade durante la riunione, in particolare annotando i dettagli delle votazioni e delle delibere.
+
+Gli step da compiere sono:
+
+1. Su [Nuvola](../../tools/nuvola.md), duplicare il file “[Carta intestata APS Oltre.odt](https://nuvola.scambi.org/index.php/f/259232 'Carta intestata APS Oltre.odt')”, rinominarlo “anno.mese.giorno Verbale assemblea.odt” e posizionarlo nella cartella [Verbali > Assemblee](https://nuvola.scambi.org/index.php/f/1164 'Cartella “Assemblee”').
+2. Scrivere l’orario di inizio dell’assemblea
+3. Scrivere chi sono verbalista e presidente dell’assemblea
+4. annotare i passaggi e gli interventi importanti, con i relativi orari
+5. Scrivere l’orario di fine assemblea
+6. Apporre sul verbale la firma di verbalista e presidente dell’assemblea
+7. Salvare in formato PDF il verbale firmato
+
 ## Buone abitudini
 
 Per quanto lo statuto indichi come l’assemblea debba svolgersi per avere un valore legale, è importante importantissimo super importantissimo seguire alcune buone abitudini che non sono formalmente specificate, ma che sono <mark>fondamentali per svolgere la nostra attività con facilità e serenità</mark>.
