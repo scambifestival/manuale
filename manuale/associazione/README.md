@@ -16,8 +16,9 @@ APS Oltre è iscritta al [Registro degli Enti del Terzo Settore della Regione Li
 
 ### Sede legale
 
-Via Dante Alighieri, 81  
-18038 Sanremo (IM), Italia
+Palazzo Gentile Spinola  
+Piazza Oratorio dei Dolori, 7  
+18038, La Pigna, Sanremo (IM), Italia
 
 ## Iscrizione
 
