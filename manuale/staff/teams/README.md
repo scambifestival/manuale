@@ -13,13 +13,17 @@ I membri di ciascun gruppo (in realtà, il team di cui ciascun socio è parte) s
 
 I Camaleonti corrispondono al [**direttivo** di A.P.S. Oltre](../../associazione/direttivo/). Contemporaneamente al loro ruolo legalmente riconosciuto, hanno caratteristiche e ruoli particolari, come indica la pagina dedicata.
 
-## Civette
+## Api
 
-Le Civette si occupano della logistica del festival. Hanno sempre la risposta pronta alle domande cruciali: “chi?”, “cosa?”, “come?”, “dove?” e “quando?”. In pratica, trovano tavoli, camere per gli ospiti, panini, e all’occasione dinosauri.
+Le Api si occupano della logistica del festival. Hanno sempre la risposta pronta alle domande cruciali: <q>chi?</q>, <q>cosa?</q>, <q>come?</q>, <q>dove?</q> e <q>quando?</q>. In pratica, organizzano turni e spostamenti, trovano tavoli, camere per gli ospiti, panini, e all’occasione dinosauri.
+
+Durante l’anno, il loro lavoro si concentra sul coordinamento del lavoro dello staff, gestendo alcune questioni amministrative come le iscrizioni dei nuovi soci, tenendo d’occhio [la tabella di marcia](../workflow/README.md) e ricordando riunioni e cose da fare.
+
+Le Api sono la fusione di due team che originariamente erano Civette e Tartarughe.
 
 ### Falchi
 
-I falchi sono una squadra interna alle Civette che opera principalmente durante la fase straordinaria. Si tratta un gruppo sul pezzo, coeso, determinato, preciso. Si occupa di tutto il [lavoro amministrativo](../../relazioni/istituzioni/) per la realizzazione del festival.
+I falchi sono una squadra interna alle Api che opera principalmente durante la [fase straordinaria](../workflow/fase-straordinaria.md). Si tratta un gruppo sul pezzo, coeso, determinato, preciso. Si occupa di tutto il [lavoro amministrativo](../../relazioni/istituzioni/) per la realizzazione del festival.
 
 Poiché è necessario andare fisicamente in comune e comunicare frequentemente con gli uffici, sarebbe meglio che almeno uno dei falchi abbia già conoscenze negli uffici comunali o rapporti con il comune.
 
@@ -61,10 +65,6 @@ Il team che può essere comunemente semplisticamente scorrettamente ricondotto a
 
 !!! info
 	Gli Stambecchi **non _creano_** i laboratori, ma si occupano di coadiuvare i [referenti](../../format/lab.md#referente) nei contenuti.
-
-## Tartarughe
-
-Le nostre tartarughe non sono particolarmente lente o addormentate, soprattutto, sono e devono essere le più affidabili e le meno evanescenti. Nelle loro mani giacciono l’amministrazione e comunicazione interna. In pratica, coordinano la stesura dei verbali, aggiornano il libro soci e seguono le questioni amministrative. Sicuramente per iscriverti sei statə seguitə da una di loro.
 
 ## Soci simpatizzanti
 
