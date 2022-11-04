@@ -47,7 +47,7 @@ All’inizio di ogni assemblea viene nominatə unə verbalista, a cui è affidat
 
 Gli step da compiere sono:
 
-1. Su [Nuvola](../../tools/nuvola.md), duplicare il file “[Carta intestata APS Oltre.odt](https://nuvola.scambi.org/index.php/f/259232 'Carta intestata APS Oltre.odt')”, rinominarlo “anno.mese.giorno Verbale assemblea.odt” e posizionarlo nella cartella [Verbali > Assemblee](https://nuvola.scambi.org/index.php/f/1164 'Cartella “Assemblee”').
+1. Su [Nuvola](../tools/nuvola/README.md), duplicare il file “[Carta intestata APS Oltre.odt](https://nuvola.scambi.org/index.php/f/259232 'Carta intestata APS Oltre.odt')”, rinominarlo “anno.mese.giorno Verbale assemblea.odt” e posizionarlo nella cartella [Verbali > Assemblee](https://nuvola.scambi.org/index.php/f/1164 'Cartella “Assemblee”').
 2. Scrivere l’orario di inizio dell’assemblea
 3. Scrivere chi sono verbalista e presidente dell’assemblea
 4. annotare i passaggi e gli interventi importanti, con i relativi orari

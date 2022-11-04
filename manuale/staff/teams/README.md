@@ -17,13 +17,13 @@ I Camaleonti corrispondono al [**direttivo** di A.P.S. Oltre](../../associazione
 
 Le Api si occupano della logistica del festival. Hanno sempre la risposta pronta alle domande cruciali: <q>chi?</q>, <q>cosa?</q>, <q>come?</q>, <q>dove?</q> e <q>quando?</q>. In pratica, organizzano turni e spostamenti, trovano tavoli, camere per gli ospiti, panini, e all’occasione dinosauri.
 
-Durante l’anno, il loro lavoro si concentra sul coordinamento del lavoro dello staff, gestendo alcune questioni amministrative come le iscrizioni dei nuovi soci, tenendo d’occhio [la tabella di marcia](../workflow/README.md) e ricordando riunioni e cose da fare.
+Durante l’anno, il loro lavoro si concentra sul coordinamento del lavoro dello staff, gestendo alcune questioni amministrative come le iscrizioni dei nuovi soci, tenendo d’occhio [la tabella di marcia](../../workflow/README.md) e ricordando riunioni e cose da fare.
 
 Le Api sono la fusione di due team che originariamente erano Civette e Tartarughe.
 
 ### Falchi
 
-I falchi sono una squadra interna alle Api che opera principalmente durante la [fase straordinaria](../workflow/fase-straordinaria.md). Si tratta un gruppo sul pezzo, coeso, determinato, preciso. Si occupa di tutto il [lavoro amministrativo](../../relazioni/istituzioni/) per la realizzazione del festival.
+I falchi sono una squadra interna alle Api che opera principalmente durante la [fase straordinaria](../../workflow/fase-straordinaria.md). Si tratta un gruppo sul pezzo, coeso, determinato, preciso. Si occupa di tutto il [lavoro amministrativo](../../relazioni/istituzioni/) per la realizzazione del festival.
 
 Poiché è necessario andare fisicamente in comune e comunicare frequentemente con gli uffici, sarebbe meglio che almeno uno dei falchi abbia già conoscenze negli uffici comunali o rapporti con il comune.
 
