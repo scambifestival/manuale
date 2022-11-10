@@ -67,3 +67,6 @@ Dunque, l’email di convocazione inviata a ciascun socio contiene due convocazi
 
 Per questa ragione, nell’email di risposta è fondamentale <mark>**specificare** che si è presenti esclusivamente in seconda convocazione</mark>.
 
+### Registrare la partecipazione
+
+È compito delle [Api](../staff/teams/README.md#Api) registrare le presenze di ogni assemblea nella tabella <cite>[Participation log](https://pino.scambi.org/database/61/table/323/1242 'Libro soci > Participation log — Pino')</cite>.

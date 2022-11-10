@@ -7,9 +7,9 @@ description: Flusso di lavoro per richiedere ed ottenere permessi dal Comune di 
 
 ## Il geometra o architetto
 
-Per completare i documenti di occupazione del suolo pubblico è necessario e di vitale importanza il contributo di una figura abilitata. Questa figura può essere: - un abilitato esterno pagato - un volontario disposto a farlo gratuitamente
+Per completare i documenti di occupazione del suolo pubblico è necessario e di vitale importanza il contributo di una figura abilitata. Questa figura può essere o un abilitato esterno pagato o un volontario disposto a farlo gratuitamente.
 
-In ogni caso, questa persona dovrà prendersi un rilevante **impegno di tempo** e la **responsabilità legale** di fronte al Comune. Nell’instaurare un legame con questa figura sarà dunque importante **informarla prventivamente** riguardo tali responsabilità e riguardo la quantità ed il genere di lavoro da svolgere.
+In ogni caso, questa persona dovrà prendersi un rilevante **impegno di tempo** e la **responsabilità legale** di fronte al Comune. Nell’instaurare un legame con questa figura sarà dunque importante **informarla preventivamente** riguardo tali responsabilità e riguardo la quantità ed il genere di lavoro da svolgere.
 
 Naturalmente, è preferibile trovare qualcunз che ci aiuti gratuitamente, tuttavia assumere un professionista può agevolare enormemente il lavoro ed evitare innumerevoli problemi imprevisti.
 
@@ -52,7 +52,7 @@ le planimetrie: quelle presenti nella relazione 2022 non sono adeguate. Usarle s
 Se si tratta di un evento che durerà una sola serata si consiglia di seguire la richiesta S.C.I.A. nella cartella su Nuvola chiamata “richiesta Cassini”  
 se si tratta di un evento che durerà più serate sarà necessario fare la richiesta normale trovabile nella cartella su Nuvola chiamata “richiesta Brigida”
 
-**S.C.I.A**
+#### S.C.I.A
 
 * comunicazione tramite **S.C.I.A**, da compilare con i dati del rappresentante legale
 * **carta d’identità** de rappresentante legale
@@ -63,7 +63,7 @@ se si tratta di un evento che durerà più serate sarà necessario fare la richi
 * **deroga ai limiti acustici**, da compilare con i dati del rappresentante legale
 * **relazione tecnica**, ad opera del geometra/architetto abilitato (di cui sopra)
 
-**Richiesta normale**
+#### Richiesta normale
 
 1. richiesta **rilascio autorizzazione**, da compilare con i dati del rappresentante legale
 2. **carta d’identità** del rappresentante legale
@@ -84,9 +84,9 @@ pagamenti da mettere in conto:
 * in base ai metri quadrati occupati sarà necessario pagare una **cauzione**, che può ammontare a **diverse migliaia di euro**
 * **marca da bollo se per caso non si fosse più APS**
 
-i pagamenti obbligatori vanno fatti all’IBAN `IT58E0617522700000001935490`
+i pagamenti obbligatori vanno fatti all’IBAN `IT58E0617522700000001935490`.
 
-Si potrebbe parlare con il comune per trattare questi discorsi, in particolar modo quello della cauzione
+Si potrebbe parlare con il comune per trattare questi discorsi, in particolar modo quello della cauzione.
 
 L’invio definitivo andrà fatto tramite PEC all’indirizzo [suap.comune.sanremo@legalmail.it](mailto:suap.comune.sanremo@legalmail.it)
 

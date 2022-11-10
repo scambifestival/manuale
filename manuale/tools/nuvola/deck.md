@@ -15,8 +15,8 @@ I modi specifici di come una _board_ è organizzata variano a seconda del suo sc
 ![Cliccando su una card, si apre questa finestra](https://x.scambi.org/assets/manual/card.jpg)
 
 * Le _card_ possono essere etichettate con **tag**, per esempio per segnalarne lo stato.
-* Unə o più utentз possono essere **assegnatз a una **_**card**_.
-* Una _card_ può avere una _**deadline**_
+* Unə o più utentз possono essere **assegnatз a una ***card**.
+* Una _card_ può avere una ***deadline***
 * Le _card_ **raggruppate** in “progetti”. La _card_ può essere collegata ad altre _card_ o a qualunque altro documento su Nuvola, in modo che sia pià facile trovare cose appartenenti alla stessa cosa da fare.
 * Ogni card ha uno spazio per una **descrizione**, che supporta la [sintassi Markdown](../markdown.md).
 
@@ -27,7 +27,7 @@ Spesso una _card_ fa riferimento alla creazione di un post. In casi come quello,
 ![This is how the section of the card allowing you to upload files looks like](https://x.scambi.org/assets/manual/attachment.jpg)
 
 !!! warning	
-<mark class='red'>Non caricare i file direttamente</mark>, mettili invece in una cartella di Nuvola, e solo successivamente allegali da lì a una _card_.
+	<mark class='red'>Non caricare i file direttamente</mark>, mettili invece in una cartella di Nuvola, e solo successivamente allegali da lì a una _card_.
 
 ### Commenti
 
