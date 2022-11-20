@@ -1,9 +1,5 @@
----
-title: 🏘 Comune di Sanremo
-description: Flusso di lavoro per richiedere ed ottenere permessi dal Comune di Sanremo
----
 !!! danger "Lavori in corso"
-	Questa pagina è ancora in costruzione: i contenuti sono probabilmente disordinati e/o incompleti. #WIP
+Questa pagina è ancora in costruzione: i contenuti sono probabilmente disordinati e/o incompleti. #WIP
 
 ## Il geometra o architetto
 
@@ -74,13 +70,13 @@ se si tratta di un evento che durerà più serate sarà necessario fare la richi
 7. **deroga ai limiti acustici**, da compilare con i dati del rappresentante legale
 8. **relazione tecnica**, ad opera del geometra/architetto abilitato
 
-Oltre a questi documenti andrà poi presentata la dimostrazione del pagamento della _**cauzione**_ (vedi di seguito).
+Oltre a questi documenti andrà poi presentata la dimostrazione del pagamento della ***cauzione*** (vedi di seguito).
 
 ## Pagamenti ed invio
 
 pagamenti da mettere in conto:
 
-* _50€_ per ogni piazza usata per le serate e dunque per ogni richiesta
+* *50€* per ogni piazza usata per le serate e dunque per ogni richiesta
 * in base ai metri quadrati occupati sarà necessario pagare una **cauzione**, che può ammontare a **diverse migliaia di euro**
 * **marca da bollo se per caso non si fosse più APS**
 
@@ -93,3 +89,16 @@ L’invio definitivo andrà fatto tramite PEC all’indirizzo [suap.comune.sanre
 ## Post-evento
 
 Appena terminato l’evento, inviare via PEC [il modulo di richiesta per la **restituzione della cauzione**](https://nuvola.scambi.org/s/ZpJ6G7rTic8Tbay)
+
+---
+
+## SCIA
+
+La SCIA è una comunicazione, da presentare al comune prima di effettuare diversi tipi di cose, ma, per quanto ci riguarda, a noi serve per ottenere i permessi per servire alcolici.
+
+* [documento oneri di istruttoria](https://nuvola.scambi.org/s/wymGCXnytNQ3Y8d) barrando la casella per la somministrazione temporanea di bevande e alimenti, ciò implica il __pagamento di 50 euro__, le cui modalità sono spiegate all'interno del file.
+* [documenti SCIA somministrazione temporanea](https://nuvola.scambi.org/s/8M5oemiPwPjaDRi) in questo documeno vanno inseriti i dati del rappresentante legale, quelli dell'associazione e di seguito le informazioni richieste in base alla tipologia di evento, non è necessario compilare la parte "dati del procuratore"
+* [notifica sanitaria ASL](https://nuvola.scambi.org/s/QdoJHYPoG8Rf6Li) il documento è simile al precedente e va compilato con le stesse modalità
+* infine in [questo documento](https://nuvola.scambi.org/s/fHGwz46AXR4NmRF) si trovano le istruzioni per procedere al pagamento di 20 euro per i <q>DIRITTI SANITARI PER ASL 1 IMPERIESE</q>
+
+Per ottenere questi permessi bisogna rivolgersi all'ufficio attività produttive, e la resposabile è la sig.ra Rolleri, non è necessario prendere un appuntamento in comune basta solamente inviare tutti i documenti con relativi bonifici di pagamento e allegando la carta identità del rappresentante legale [tramite PEC](mailto:suap.comune.sanremo@legalmail.it)
