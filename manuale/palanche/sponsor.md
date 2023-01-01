@@ -2,6 +2,7 @@
 title: 💅 Sponsor
 description: Everything about defining and handling sponsors
 ---
+
 ## Definition
 
 Sponsors can be divided in two broad categories.
@@ -22,11 +23,11 @@ Sponsors have to be scouted, contacted, and signed. All of this has to be done f
       3. (Brainstorming on how the collaboration could be carried out)
    3. **Follow-up emails**: no further communication should occur only verbally. Everything should be logged and noted via email. Not by message, not by call.
 3. **Signing**: once every detail is defined, a **summary email** has to be sent and a confirmation must be received. Such email should contain:
-   * <mark>**marketing material**</mark> of the sponsor:
+   * <mark>**marketing material**</mark> of the sponsor: 
      * high resolution logo
      * some video/photo promotional content
      * the standard written biography/presentation
-   * a <mark>**contract**</mark> summarizing the main points of the deal has to be signed both by Scambi’s president and the legal responsible of the sponsoring entity. What the contact should address:
+   * a <mark>**contract**</mark> summarizing the main points of the deal has to be signed both by Scambi’s president and the legal responsible of the sponsoring entity. What the contact should address: 
      * **beginning** and **end** (timing) of the sponsorship
      * precisely **what** we get and what we give
      * who are the **delegates** for Scambi and, if applicable, for the sponsoring entity
