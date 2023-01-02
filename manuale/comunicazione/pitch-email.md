@@ -12,10 +12,10 @@ Una delle caratteristiche particolari delle _pitch email_ di Scambi è che vengo
 In non più di quindici righe, deve contenere le seguenti informazioni:
 
 * **Chi** scrive e perché scrive
-* **Cos’è** Scambi, in non più di due frasi, poiché la spiegazione completa si troverà nella [**presentazione**](https://nuvola.scambi.org/s/QZXgZAtDqaxi5z4) che deve essere <mark>sempre allegata</mark>.
+* **Cos’è** Scambi, in non più di due frasi, poiché la spiegazione completa si troverà nella [**presentazione**](https://x.scambi.org/presentazione.pdf) che deve essere <mark>sempre allegata</mark>.
 * **Perché** stiamo contattando <mark>_proprio_ te/voi</mark>?
 * Possiamo sentirci/vederci?
 
 !!! info "Obiettivo"
-	Salvo eccezioni, l’obiettivo della _pitch email_ deve essere quello di <mark>organizzare un **incontro**</mark> (quasi sempre in _videocall_).  
+	Salvo eccezioni, l’obiettivo primario della _pitch email_ è <mark>organizzare un **incontro**</mark> (quasi sempre in _videocall_).  
 	Scambi funziona e interessa perché quando le persone si trovano davanti le nostre faccione giovani, sorridenti e cariche di entusiasmo <mark>è difficile non essere contagiati</mark> e dire di no.

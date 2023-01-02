@@ -69,4 +69,4 @@ Per questa ragione, nell’email di risposta è fondamentale <mark>**specificare
 
 ### Registrare la partecipazione
 
-È compito delle [Api](../staff/teams/README.md#Api) registrare le presenze di ogni assemblea nella tabella <cite>[Participation log](https://pino.scambi.org/database/61/table/323/1242 'Libro soci > Participation log — Pino')</cite>.
+È compito delle [Api](../staff/teams/README.md#Api) registrare le presenze di ogni assemblea nella tabella <cite>[Participation log](https://libro-soci.scambi.org/1242 'Libro soci > Participation log — Pino')</cite>.

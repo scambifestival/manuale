@@ -10,15 +10,15 @@ Qui è spiegato quali sono gli step da compiere, quanto tempo impiegano, a cosa 
 
 * Dovresti contattare i _Pavoni_ (il team grafiche, per ora composto solo da Miranda e Jolanda, perciò comunicando in inglese).
 * Scrivi loro
-  * tutte le idee iniziali che avete avuto
-  * entro quando è necessario che il lavoro sia finito
+	* tutte le idee iniziali che avete avuto
+	* entro quando è necessario che il lavoro sia finito
 
 **Secondo step**: riunione e tabella di marcia (solo per progetti più elaborati)
 
 * Organizza una riunione con uno dei Pavoni e discuti le tempistiche della vostra idea
 * Raccogli
-  * tutte le informazioni da scrivere nella grafica
-  * loghi da aggiungere
+	* tutte le informazioni da scrivere nella grafica
+	* loghi da aggiungere
 * Programma una riunione per il terzo step
 
 **Terzo step**: revisione della bozza
@@ -32,7 +32,7 @@ Qui è spiegato quali sono gli step da compiere, quanto tempo impiegano, a cosa 
 * La grafica è completata, è vostro compito controllare in caso ci siano ultime correzioni da fare
 * Piccoli errori possono ancora essere corretti (ecco perché la data per la grafica finale dovrebbe essere impostata almeno alcuni giorni prima di quando effettivamente serve, per progetti grandi, in particolare se c’è molto testo da scrivere).
 
-##Timeframe
+## Timeframe
 
 Indicazioni generali per capire quanto tempo è necessario per realizzare un progetto e dunque quanto anticipo serve per richiederlo.
 
@@ -45,6 +45,6 @@ Queste indicazioni valgono per Miranda, anche se il tempo lavoro richiesto da al
 
 Bisogna considerare che, anche chiedendo la grafica in tempo, con l’organico attuale se c’è troppo da fare in un certo periodo è molto più difficile portare a compimento le richieste, perciò è sempre meglio chiedere il prima possibile.
 
-##E se nessuno può realizzare una grafica?
+## E se nessuno può realizzare una grafica?
 
 In caso di emergenza possono essere usati [Penpot](https://design.penpot.app/) oppure [Canva](https://www.canva.com/). Per il primo, i Pavoni hanno realizzato un tutorial con alcune indicazioni generali e ci sono alcuni template pronti per post sui social.

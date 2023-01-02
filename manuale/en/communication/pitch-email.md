@@ -14,4 +14,4 @@ It should contain, in <mark>no more than fifteen rows</mark>:
 * What is Scambi (no more than two sentences, refer to the attached the presentation for further info)
 * **Why** do we want **you**?
 * Can we have a chat?  
-  The follow-up of the pitch email, ideally, is a call or a videocall
+	The follow-up of the pitch email, ideally, is a call or a videocall

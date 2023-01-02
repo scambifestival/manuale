@@ -8,41 +8,41 @@ Sarebbe un suicidio non esserci e, già che ci siamo, è importante i nostri acc
 
 ## Workflow
 
-1. Su base mensile, si prepara il PED. Naturalmente, preparando il PED il layout di ciascuno _stream_ viene [pensato e realizzato](../../design/processo-di-creazione-grafica.md) con i Pavoni, che preparano dei template su Canva.
+1. Su base mensile, si prepara il PED. Naturalmente, preparando il [PED](PED.md) il layout di ciascuno _stream_ viene [pensato e realizzato](../../design/processo-di-creazione-grafica.md) con i Pavoni, che preparano dei template su Canva.
 2. Ciascunə delle Libellule si occupa di usare i template pronti su Canva per realizzare ogni post dalla A alla Z:
-   * assicurarsi anzitempo che le grafiche o le immagini necessarie siano pronte;
-   * scrivere il _copy_ e inserirlo nella grafica;
-   * scrivere l’_update_;
-   * aggiornare il PED:
-     * aggiornare i tag;
-     * scrivere il testo dell’update nella descrizione;
-     * allegare i file da postare.
+	* assicurarsi anzitempo che le grafiche o le immagini necessarie siano pronte;
+	* scrivere il _copy_ e inserirlo nella grafica;
+	* scrivere l’_update_;
+	* aggiornare il [PED](PED.md):
+		* aggiornare i tag;
+		* scrivere il testo dell’update nella descrizione;
+		* allegare i file da postare.
 3. Il team leader delle Libellule revisiona ciascun post e ne programma la pubblicazione.
 
 ## _Stream_
 
 Elenco random e spiegazione di ciascuno _stream_.
 
-* <strong style='color:var(--red, red)'><em>Stream</em> evento</strong>_: post riguardante qualcosa di grosso che va comunicato e pompato singolarmente (per esempio: serate, eventi speciali, inaugurazione…).
-  * Post su Instagram:
-    1. locandina dell’evento o grafica creata ad-hoc
-    2. un frame per ciascunə **ospite**, con un’immagine profilo
-    3. eventuale copy con **informazioni** (per esempio: ingresso a pagamento, prenotazione obbligatoria su…, solo bottigliette in plastica ammesse)
-  * Post su Facebook come su Instagram, ma:
-    * nessun copy con le info: scriverle nell’update
-    * Aggiungere link con CTA
-  * Storie su Instagram come post su Instagram, ma invece dell’immagine è preferibile postare un **video** (max 30 secondi, sue storie) dell’ospite che invita le persone a partecipare.
-* <strong style='color:var(--green, green)'><em>Stream</em> attività</strong>_: post riguardante una classica attività o appuntamento, comunicato singolarmente (per esempio Lab).
-  * Post su Instagram:
-    1. un’[**immagine** di archivio](https://images.tommi.space/index?/category/scambi-festival) che sia più o meno coerente con l’oggetto dell’attività, con il **titolo** dell’attività in sovrimpressione;
-    2. un frame dedicato all’**ospite**, eventualmente con **logo** piccolino in un angolo;
-    3. copy con breve **descrizione**/riassunto dell’attività.
-  * Post su Facebook come su Instagram, ma:
-    * nessun copy con descrizione: scriverla nell’update
-    * Aggiungere link con CTA
-  * Storie su Instagram come post su Instagram, ma invece dell’immagine è preferibile postare un **video** (max 30 secondi, sue storie) dell’ospite che invita le persone a partecipare.
-  * <strong style='color:var(--purple, purple)'><em>Stream</em> cose</strong>: post riguardante cose varie (per esempio: annuncio, sponsor, pinoli).  
-    In ciascun post di questo _stream_ possono esserci una o **più cose** contemporaneamente. A ciascuna cosa è dedicato un frame con una grafica ad-hoc oppure un’immagine d’archivio con titolo in sovrimpressione (come primo frame stream attività). Talvolta, lo stream cose **può essere limitato alle storie**, senza post.
+* <strong style='color:var(--red, red)'><em>Stream</em> evento</strong>: post riguardante qualcosa di grosso che va comunicato e pompato singolarmente (per esempio: serate, eventi speciali, inaugurazione…).
+	* Post su Instagram:
+		1. locandina dell’evento o grafica creata ad-hoc
+		2. un frame per ciascunə **ospite**, con un’immagine profilo
+		3. eventuale copy con **informazioni** (per esempio: ingresso a pagamento, prenotazione obbligatoria su…, solo bottigliette in plastica ammesse)
+	* Post su Facebook come su Instagram, ma:
+		* nessun copy con le info: scriverle nell’update
+		* Aggiungere link con CTA
+	* Storie su Instagram come post su Instagram, ma invece dell’immagine è preferibile postare un **video** (max 30 secondi, sue storie) dell’ospite che invita le persone a partecipare.
+* <strong style='color:var(--green, green)'><em>Stream</em> attività</strong>: post riguardante una classica attività o appuntamento, comunicato singolarmente (per esempio Lab).
+	* Post su Instagram:
+		1. un’[**immagine** di archivio](https://images.tommi.space/index?/category/scambi-festival) che sia più o meno coerente con l’oggetto dell’attività, con il **titolo** dell’attività in sovrimpressione;
+		2. un frame dedicato all’**ospite**, eventualmente con **logo** piccolino in un angolo;
+		3. copy con breve **descrizione**/riassunto dell’attività.
+	* Post su Facebook come su Instagram, ma:
+		* nessun copy con descrizione: scriverla nell’update
+		* Aggiungere link con CTA
+	* Storie su Instagram come post su Instagram, ma invece dell’immagine è preferibile postare un **video** (max 30 secondi, sue storie) dell’ospite che invita le persone a partecipare.
+	* <strong style='color:var(--purple, purple)'><em>Stream</em> cose</strong>: post riguardante cose varie (per esempio: annuncio, sponsor, pinoli).  
+		In ciascun post di questo _stream_ possono esserci una o **più cose** contemporaneamente. A ciascuna cosa è dedicato un frame con una grafica ad-hoc oppure un’immagine d’archivio con titolo in sovrimpressione (come primo frame stream attività). Talvolta, lo stream cose **può essere limitato alle storie**, senza post.
 
 ## Glossario
 

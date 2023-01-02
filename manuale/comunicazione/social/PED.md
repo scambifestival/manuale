@@ -19,7 +19,7 @@ I tag utilizzati per il PED segnalano lo stato del post e sono:
 * <mark class='green'>**REVIEWED**</mark>: il post è stato revisionato **e** la sua pubblicazione è stata programmata.
 
 !!! warning	
-Nel caso di WRITING e GRAPHICS, i tag sono presenti quando il loro oggetto _non_ è ok, mentre sono _<mark class='purple'>rimossi</mark>_ <mark class='purple'></mark><mark class='purple'>quando il relativo contenuto è stato finalizzato</mark>.
+	Nel caso di WRITING e GRAPHICS, i tag sono presenti quando il loro oggetto _non_ è ok, mentre sono <mark class='purple'>_rimossi_ quando il relativo contenuto è stato finalizzato</mark>.
 
 ## Stream
 

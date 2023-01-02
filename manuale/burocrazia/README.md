@@ -32,5 +32,3 @@ Quasi tutto il lavoro di burocrazia per la realizzazione del Festival consiste n
 * Richiesta di sedie/transenne/materiali pubblici
 
 ## Storico
-
-####

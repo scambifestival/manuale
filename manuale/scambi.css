@@ -4,6 +4,7 @@
 	--dark-grey: #555;
 	--light-grey: #AAA;
 	--yellow: #FFD166;
+	--transp-yellow: #FFD166AA;
 	--peach: #EF7D6E;
 	--blue: #233FB9;
 	--dark-blue: #11305B;
@@ -76,6 +77,16 @@
 	text-shadow: var(--neat-orange-shadow);
 }
 
+[dir='ltr'] .md-typeset dd {
+	margin: 0 0 .5em .8em;
+}
+
+.md-typeset mark {
+	background-color: var(--transp-yellow, yellow);
+	padding: 0 2px;
+	border-radius: 4px;
+}
+
 .md-header {
 	top: .5rem;
 	margin: 0 3vw;
@@ -110,4 +121,33 @@
 .md-search__output {
 	margin-top: .5rem;
 	border-radius: .5rem !important;
+}
+
+dt {
+	font-weight: 800;
+}
+
+.orange {
+	background-color: var(--orange, orange) !important;
+	color: #000 !important;
+}
+
+.yellow {
+	background-color: var(--yellow, yellow) !important;
+	color: #000 !important;
+}
+
+.red {
+	background-color: var(--red, red) !important;
+	color: #FFF !important;
+}
+
+.green {
+	background-color: var(--green, green) !important;
+	color: #000 !important;
+}
+
+.blue {
+	background-color: var(--blue, blue) !important;
+	color: #FFF !important;
 }

@@ -11,15 +11,15 @@ L’archivio delle newsletter passate si trova [qui](https://buttondown.email/sc
 
 1. Andare su [buttondown.email/emails](https://buttondown.email/emails)
 2. Utilizzare l’editor Markdown cliccando su `Markdown` e attivare la _preview_ cliccando su `Showing preview`
-3. Immediatamente attivare il salvataggio automatico cliccando su `Autosave`, in basso a destra: <img src="../.gitbook/assets/buttondown-autosave.png" alt="" data-size="line">
+3. Immediatamente attivare il salvataggio automatico cliccando su `Autosave`, in basso a destra: [![](https://x.scambi.org/assets/manual/buttondown-autosave.png)
 4. Scrivere il testo dell’email utilizzando la sintassi Markdown, di cui le istruzioni per l’utilizzo sono [qui](markdown.md).
 5. È possibile programmare l’invio automatico della newsletter in un secondo momento, cliccando su `Sending immediately` e scegliendo una data e un orario nella finestra che si apre
 6. È possibile selezionare una cerchia stretta di iscritti a cui inviare la newsletter, o, altrimenti, per escludere un gruppo specifico. Nell’immagine che segue, l’email sarà inviata unicamente a iscritti che sono etichettati con `Dissolvenze` e che contemporaneamente non sono elichettati come `Italian`. Per selezionare un gruppo, cliccare una volta, mentre per escluderne uno, cliccare due volte.\
-   <img src="../.gitbook/assets/buttondown-sending-to.png" alt="" data-size="original">
+	[![](https://x.scambi.org/assets/manual/buttondown-sending-to.png)
 7. Se si desidera tenere privata l’email inviata, bisognerà fare in modo che non appaia su epistuae.scambi.org. Per fare questo, cambiare le impostazioni nel pulsante mostrato nell’immagine:\
-   <img src="../.gitbook/assets/buttondown-visibility.png" alt="" data-size="original">
+	[![](https://x.scambi.org/assets/manual/buttondown-visibility.png)
 8. Prima dell’invio definitivo, può essere una buona idea inviare una copia della bozza all’email di scambi e eventualmente ad altri:  
-   ![](https://x.scambi.org/assets/manual/buttondown-send-draft.png)
+	![](https://x.scambi.org/assets/manual/buttondown-send-draft.png)
 9. Una volta che tutto è certo e confermato, cliccare sul bottone blu per inviare l’email.
 
 ## Archivio e modifica

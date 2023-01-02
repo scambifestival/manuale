@@ -16,15 +16,15 @@ Il direttivo, anche chiamato **Consiglio** o [**Organo di Amministrazione**](../
 > 5. La convocazione va inviata per iscritto, anche tramite e-mail, con un preavviso di almeno 8 giorni, salvo casi di eccezionale urgenza in cui il preavviso può essere più breve.
 > 6. L’ingiustificata assenza di un consigliere a più di 3 (tre) riunioni consecutive comporta la sua immediata decadenza automatica dalla carica. Alla sostituzione di ciascun consigliere decaduto o dimissionario si provvede designando il primo dei non eletti o procedendo all’elezione dei membri mancanti nella prima Assemblea utile.
 > 7. L’Organo di Amministrazione ha i seguenti compiti:
->    1. elegge, al suo interno, il presidente e il vicepresidente;
->    2. amministra l’associazione;
->    3. predispone il bilancio d’esercizio e, se previsto, il bilancio sociale, li sottopone all’approvazione dell’assemblea e cura gli ulteriori adempimenti previsti dalla norma;
->    4. realizza il programma di lavoro, promuovendone e coordinandone l’attività e autorizzandone la spesa;
->    5. cura la tenuta dei libri sociali di sua competenza;
->    6. decide su l’avvio o l’interruzione degli eventuali contratti di lavoro con il personale;
->    7. decide su l’istituire o il chiudere di sedi secondarie o sezioni anche in altre città d’Italia o all’estero;
->    8. accoglie o rigetta le domande degli aspiranti associati;
->    9. è responsabile degli adempimenti connessi all’iscrizione nel Registro del Terzo Settore e previsti dalla normativa vigente.
+> 	1. elegge, al suo interno, il presidente e il vicepresidente;
+> 	2. amministra l’associazione;
+> 	3. predispone il bilancio d’esercizio e, se previsto, il bilancio sociale, li sottopone all’approvazione dell’assemblea e cura gli ulteriori adempimenti previsti dalla norma;
+> 	4. realizza il programma di lavoro, promuovendone e coordinandone l’attività e autorizzandone la spesa;
+> 	5. cura la tenuta dei libri sociali di sua competenza;
+> 	6. decide su l’avvio o l’interruzione degli eventuali contratti di lavoro con il personale;
+> 	7. decide su l’istituire o il chiudere di sedi secondarie o sezioni anche in altre città d’Italia o all’estero;
+> 	8. accoglie o rigetta le domande degli aspiranti associati;
+> 	9. è responsabile degli adempimenti connessi all’iscrizione nel Registro del Terzo Settore e previsti dalla normativa vigente.
 > 8. Il potere di rappresentanza attribuito agli amministratori è generale. Le limitazioni del potere di rappresentanza non sono opponibili ai terzi se non sono iscritte nel Registro unico nazionale del Terzo settore o se non si prova che i terzi ne erano a conoscenza.
 
 [Statuto](../statuto.md){ .md-button }

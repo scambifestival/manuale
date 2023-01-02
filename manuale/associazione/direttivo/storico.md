@@ -2,6 +2,14 @@
 title: 🌀 Storico dei Consigli d’Amministrazione
 description: Tutte le dinastie di Camaleonti che hanno regnato su APS Oltre
 ---
+## Dal 23 ottobre 2022
+
+* Tommaso Marmo, presidente
+* Stefania Ilie, vice-presidente
+* Paola Almerighi
+* Giulia Riceputi
+* Eleonora Vitale
+
 ## Dal 26 settembre 2021 al 23 ottobre 2022
 
 * Anna Mastrantuono, presidente

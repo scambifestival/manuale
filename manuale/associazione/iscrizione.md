@@ -15,7 +15,7 @@ Ecco il procedimento da seguire:
 	* la [liberatoria per il trattamento dei dati](https://nuvola.scambi.org/s/TnEwFrwPwr94MHH), con cui il socio permette all’A.P.S. Oltre di conservare i suoi dati;
 	* la [liberatoria per il trattamento delle immagini](https://nuvola.scambi.org/s/RHPnZDRwJGAemtq), con cui il socio permette all’A.P.S. Oltre di conservare e condividere sue immagini;
 	* l’[accordo di riservatezza](https://nuvola.scambi.org/s/fkSYNNW7c9idwoq), con cui il socio si impegna a non salvare privatamente e a non diffondere dati sensibili con cui ha a che fare lavorando per l’associazione.
-3. Aggiungere il nuovo socio al [**Libro Soci**](https://pino.scambi.org/database/61/table/323), <mark>completandone ogni campo</mark>!
+3. Aggiungere il nuovo socio al [**Libro Soci**](https://libro-soci.scambi.org), <mark>completandone ogni campo</mark>!
 4. Aggiungere il nuovo socio ai [**contatti**, su Nuvola](https://nuvola.scambi.org/apps/contacts/All%20contacts).
 5. Iscriverlə alla [**newsletter**](https://epistulae.scambi.org), seguendo [queste istruzioni](../comunicazione/newsletter.md) e assegnando il tag `sociə` al nuovo iscritto. Assegnare il tag è fondamentale per assicurarsi che le comunicazioni ufficiali con i soci arrivino correttamente a tutti
 6. Aggiungere il nuovo socio alle seguenti **chat**:

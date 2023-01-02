@@ -2,9 +2,9 @@
 title: ♿ Accessibilità
 description: L’approccio che abbiamo per rendere Scambi Festival accessibile a tuttз
 ---
-Le [Ghiandaie](/staff/teams/#ghiandaie) si occupano di rendere il festival accessibile sotto ogni aspetto. Il loro lavoro si sviluppa contemporaneamente su diversi fronti.
+Le [Ghiandaie](/staff/teams#ghiandaie) si occupano di rendere il festival accessibile sotto ogni aspetto. Il loro lavoro si sviluppa contemporaneamente su diversi fronti.
 
-##Collaborazioni
+## Collaborazioni
 
 Per quanto intendiamo perseguire l‘accessibilità per il suo significato più profondo, non per scopi pubblicitari o velleitari, se il festival è accessibile e nessuno sfrutta questo i nostri sforzi sono sprecati.
 
@@ -32,8 +32,8 @@ Collaboriamo con gruppi scout ed artigiani locali per la costruzione di rampe in
 
 Anche se con giri assurdi, in molti casi si può giungere ad un luogo anche se la via principale è difficilmente accessibile. Con il supporto delle Civette, le Ghiandaie studiano il territorio al meglio per sfruttare ogni possibilità.
 
-In particolare, per avvalerci di una parere più autorevole, ci consultiamo con il [**Comitato P.E.B.A.**](https://www.comunedisanremo.it/pagina45_comitato-peba.html) (Piano di Eliminazione delle Barriere Architettoniche) del comune di Sanremo.
+In particolare, per avvalerci di una parere più autorevole, ci consultiamo con il [**Comitato P.E.B.A.**](https://comunedisanremo.it/pagina45_comitato-peba.html) (Piano di Eliminazione delle Barriere Architettoniche) del comune di Sanremo.
 
-##Contenuti
+## Contenuti
 
 Accessibilità non vuol dire unicamente permettere a chiunque di raggiungere fisicamente ogni luogo, ma anche permettere a ciascuno di vivere appieno l’esperienza che intende vivere. Questo non si può ottenere unicamente con la traduzione in LIS per sordi e con l’accompagnamento di ciechi e ipovedenti. È necessario che esperienze e contenuti siano passati al vaglio delle Ghiandaie, o idealmente concepite insieme a loro.

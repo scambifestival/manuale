@@ -8,7 +8,7 @@ We usually print posters in two formats:
 
 * **A3**, to be hung **inside shops** and all around Sanremo, but not in public spaces, since to do so <span style='color:var(--red, red)'>it is required a specific stamp</span> which costs 0,12€ for each poster for each day.
 * **70x100**cm, to be hung in strategic places because of their big size.  
-  By paying \~60€ and giving \~50 posters of this size to [Abaco](https://www.abacospa.it/it/tributi-pubblicita-e-pubbliche-affissioni-sanremo-im.php), they are distributed around designed poster displays around the city.
+	By paying \~60€ and giving \~50 posters of this size to [Abaco](https://www.abacospa.it/it/tributi-pubblicita-e-pubbliche-affissioni-sanremo-im.php), they are distributed around designed poster displays around the city.
 
 ## Passports
 

@@ -15,28 +15,28 @@ Fill the information according to [this reference CSV file](https://x.scambi.org
 
 ## Fields
 
-* **``**[**`identifier`**](https://archive.org/developers/metadata-schema/#identifier): unique identifier that will determine the URL of the item (e.g. identifier: `scambi2022-345`, URL: [`https://archive.org/details/scambi2022-345`](https://archive.org/details/scambi2022-345))
-* **``**[**`mediatype`**](https://archive.org/developers/metadata-schema/#mediatype): what is this? Usually `image` or `video`
-* **``**[**`collection`**](https://archive.org/developers/metadata-schema/#collection): the collection this item belongs to. So far, Scambi Festival has: [`scambi-2021`](https://archive.org/details/scambi-2021), [`scambi-presenta-2022`](https://archive.org/details/scambi-presenta-2022), and [`scambi-2022`](https://archive.org/details/scambi-2022)``
+* [**`identifier`**](https://archive.org/developers/metadata-schema/#identifier): unique identifier that will determine the URL of the item (e.g. identifier: `scambi2022-345`, URL: [`https://archive.org/details/scambi2022-345`](https://archive.org/details/scambi2022-345))
+* [**`mediatype`**](https://archive.org/developers/metadata-schema/#mediatype): what is this? Usually `image` or `video`
+* [**`collection`**](https://archive.org/developers/metadata-schema/#collection): the collection this item belongs to. So far, Scambi Festival has: [`scambi-2021`](https://archive.org/details/scambi-2021), [`scambi-presenta-2022`](https://archive.org/details/scambi-presenta-2022), and [`scambi-2022`](https://archive.org/details/scambi-2022)``
 * **`file`**: the local path the CLI interface should retrieve the file from
-* **``**[**`title`**](https://archive.org/developers/metadata-schema/#title): item title
-* **``**[**`date`**](https://archive.org/developers/metadata-schema/#date): item original date
-* **``**[**`creator`**](https://archive.org/developers/metadata-schema/#creator): if the author is known, use their name; otherwise, write `Scambi Festival`
-* **``**[**`coverage`**](https://archive.org/developers/metadata-schema/#coverage): the item location in ISO standard format (for us it is `IT-IM`)
-* **``**[**`licenseurl`**](https://archive.org/developers/metadata-schema/#licenseurl): the URL of the license for the image. If it is a graphics or something created from scratch, we use [`https://creativecommons.org/licenses/by-nd/1.0/`](https://creativecommons.org/licenses/by-nd/1.0/), but usually we go for [`https://creativecommons.org/licenses/by-sa/4.0/`](https://creativecommons.org/licenses/by-sa/4.0/)``
+* [**`title`**](https://archive.org/developers/metadata-schema/#title): item title
+* [**`date`**](https://archive.org/developers/metadata-schema/#date): item original date
+* [**`creator`**](https://archive.org/developers/metadata-schema/#creator): if the author is known, use their name; otherwise, write `Scambi Festival`
+* [**`coverage`**](https://archive.org/developers/metadata-schema/#coverage): the item location in ISO standard format (for us it is `IT-IM`)
+* [**`licenseurl`**](https://archive.org/developers/metadata-schema/#licenseurl): the URL of the license for the image. If it is a graphics or something created from scratch, we use [`https://creativecommons.org/licenses/by-nd/1.0/`](https://creativecommons.org/licenses/by-nd/1.0/), but usually we go for [`https://creativecommons.org/licenses/by-sa/4.0/`](https://creativecommons.org/licenses/by-sa/4.0/)``
 * **`subject`**: list of the topics related to that item. In particular we use:
-  * `Scambi Festival`, always
-  * `Scambi Festival [EDITION]`, for example `Scambi Festival 2021`, or `Scambi Festival Present(a) 2022`
-  * what (see below)
-  * Lab/Pinolo/activity name, for example `Attivismo a costo zero`, or `Da Capo`
-  * location information
-    * `Sanremo` (city)
-    * `La Pigna` (neighborhood)
-    * Specific location name, for example `Piazza Cassini` or `La Ciotola`
-  * (`interview`) if it is an interview
-  * relation(s), for example `Understanding Europe`, or `Jennifer Guerra` (see below)
-  * (`Cool` and/or `Best of` (see below))
-  * (extra related info, for example `migration`/`art`/`physics`…
+	* `Scambi Festival`, always
+	* `Scambi Festival [EDITION]`, for example `Scambi Festival 2021`, or `Scambi Festival Present(a) 2022`
+	* what (see below)
+	* Lab/Pinolo/activity name, for example `Attivismo a costo zero`, or `Da Capo`
+	* location information
+		* `Sanremo` (city)
+		* `La Pigna` (neighborhood)
+		* Specific location name, for example `Piazza Cassini` or `La Ciotola`
+	* (`interview`) if it is an interview
+	* relation(s), for example `Understanding Europe`, or `Jennifer Guerra` (see below)
+	* (`Cool` and/or `Best of` (see below))
+	* (extra related info, for example `migration`/`art`/`physics`…
 
 ### Custom
 

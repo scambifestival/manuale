@@ -5,7 +5,7 @@ description: Chi sono, cosa fanno e perché dannatamente dovrebbero farlo
 Non per caso l’icona di questa pagina è un gomitolo. È facile, naturale e—purtroppo—frequente che le dinamiche interne a Scambi appaiano come un groviglio incomprensibile, confuso e stressante.  
 I team leaders esistono affinché questo non accada.
 
-Ogni [team](../teams/) ha un proprio referente, il cui ruolo non è di prendere decisioni, di sapere più cose degli altri o di imporsi. Il suo compito, invece, è avere sempre chiaramente in mente la risposta a queste quattro fondamentali domande, assumendosene la responsabilità:
+Ogni [team](/staff/teams) ha un proprio referente, il cui ruolo non è di prendere decisioni, di sapere più cose degli altri o di imporsi. Il suo compito, invece, è avere sempre chiaramente in mente la risposta a queste quattro fondamentali domande, assumendosene la responsabilità:
 
 * quali sono gli **obiettivi**, i **progetti** e le **scadenze** per il mio team, nel breve-medio termine?
 * in quale **direzione** il mio gruppo sta andando? Corrisponde a quella che dovremmo avere secondo il punto precedente?

@@ -9,4 +9,4 @@ Il referente si occupa di fare da **tramite** fra il portavoce dell’ente parte
 In particolare, il referente ha la **totale responsabilità** di ogni aspetto dell’attività di cui si occupa e in ogni aspetto di questo compito è supportato dai diversi team.
 
 !!! warning	""
-	Non sono i team a doversi preoccupare di realizzare l’attività o di aggiornarne le informazioni. <mark>Sta al referente</mark> <mark></mark><mark>**comunicare efficacemente**</mark> con ciascun team affinché possa svolgere al meglio il proprio lavoro.
+	Non sono i team a doversi preoccupare di realizzare l’attività o di aggiornarne le informazioni. <mark>Sta al referente **comunicare efficacemente**</mark> con ciascun team affinché possa svolgere al meglio il proprio lavoro.
