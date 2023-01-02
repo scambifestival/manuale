@@ -2,7 +2,7 @@
 title: ♿ Accessibilità
 description: L’approccio che abbiamo per rendere Scambi Festival accessibile a tuttз
 ---
-Le [Ghiandaie](staff/teams/#ghiandaie) si occupano di rendere il festival accessibile sotto ogni aspetto. Il loro lavoro si sviluppa contemporaneamente su diversi fronti.
+Le [Ghiandaie](/staff/teams/#ghiandaie) si occupano di rendere il festival accessibile sotto ogni aspetto. Il loro lavoro si sviluppa contemporaneamente su diversi fronti.
 
 ##Collaborazioni
 
@@ -10,13 +10,13 @@ Per quanto intendiamo perseguire l‘accessibilità per il suo significato più 
 
 ### Enti
 
-Le Ghiandaie si impegnano a mantenere [relazioni](relazioni/) con associazioni locali e non che siano interessate all’inclusività.
+Le Ghiandaie si impegnano a mantenere [relazioni](/relazioni) con associazioni locali e non che siano interessate all’inclusività.
 
 ### Interpreti
 
 Non è facile trovare interpreti LIS che si rendano disponibili come volontari, poiché la quasi totalità degli udenti che conosce la LIS pratica l’interpretariato come mestiere. Tuttavia, le Ghiandaie cercano studenti e tirocinanti interpreti tramite percorsi universitari.
 
-##Spazi
+## Spazi
 
 Ogni luogo in cui si svolge un’attività di Scambi Festival deve essere accessibile. Intendiamo riuscire in questo obiettivo con le seguenti strategie.
 
