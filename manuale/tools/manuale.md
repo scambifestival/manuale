@@ -48,3 +48,5 @@ Inoltre, di seguito una lista di contenuti che ancora non sono stati inseriti ma
 	* lo scriba: — stesura e manutenzione documentazione
 	* chi si occupa di organizzare crowdfunding
 	* chi si occupa di organizzare eventi collaterali
+* Come utilizzare carta intestata e font
+* Brand guidelines
