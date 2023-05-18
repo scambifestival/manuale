@@ -4,6 +4,16 @@ description: Tutti i temi proposti nella storia del festival
 ---
 In questa pagina sono raccolti tutti i temi che siano mai stati proposti per Scambi Festival. In particolare, quelli evidenziati in rosso sono <mark class='red'>**i temi scelti**</mark>, quelli evidenziati in giallo sono <mark>**i finalisti**</mark> mentre quelli in **grassetto** i semi-finalisti.
 
+## 2023
+
+* Rivoluzione/Rivolta/Ribellione
+* Rabbia
+* **Comunità**
+* <mark class='red'>Verso**</mark>
+* Fine
+* **Posizione**
+* Fragilità
+
 ## 2022
 
 * Onde
@@ -22,7 +32,7 @@ In questa pagina sono raccolti tutti i temi che siano mai stati proposti per Sca
 * Spazio
 * Tempo
 * Storia
-* <mark>**Dubbio**</mark>** o Incertezza**
+* <mark>**Dubbio**</mark> o **Incertezza**
 * Significato
 * Valore
 * Avvenire
