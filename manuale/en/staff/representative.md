@@ -9,4 +9,4 @@ The representative deals with **connecting** the participating institution and e
 In particular, the representative has the **total responsability** for every aspect concerning the activity he/she deals with and by accomplishing every aspect of this task, he/she is supported by the other teams.
 
 !!! warning	
-The teams do not have to deal with the realization of an activity or with the update of the respective information. It is the job of the representative to effectively communicate with each team so that each one could do its work at the best.
+	The teams do not have to deal with the realization of an activity or with the update of the respective information. It is the job of the representative to effectively communicate with each team so that each one could do its work at the best.

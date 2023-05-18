@@ -9,9 +9,9 @@ Talvolta, enti terzi che finanziano Scambi Festival richiedono una rendicontazio
 
 Nel caso del comune, è necessario anche creare un bilancio preventivo.
 
-#wip
+\#wip
 
-- CI presidente
-- specificazione IBAN
-- tutte le fatture allegate sono pertinenti a spese effettivamente sostenute
-- non siamo soggetti a ritenuta 4% del dpr600/73 art 28.
+* CI presidente
+* specificazione IBAN
+* tutte le fatture allegate sono pertinenti a spese effettivamente sostenute
+* non siamo soggetti a ritenuta 4% del dpr600/73 art 28.

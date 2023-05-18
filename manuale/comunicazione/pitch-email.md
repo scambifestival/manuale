@@ -2,18 +2,19 @@
 title: 👀 Pitch email
 description: Cos’è e come scrivere efficacemente una pitch email
 ---
-Una _pitch email_ è l’email che si invia per la prima volta a qualcunə per farlə interessare a Scambi, indipendentemente dalla finalità ultima.
+
+Una *pitch email* è l’email che si invia per la prima volta a qualcunə per farlə interessare a Scambi, indipendentemente dalla finalità ultima.
 
 ## Stesura
 
-Una _pitch email_ deve essere accattivante, diretta, entusiasta ed esaustiva, ma **breve**.  
-Una delle caratteristiche particolari delle _pitch email_ di Scambi è che vengono <mark>messe in evidenza la **personalità** e gli **interessi**</mark> di chi le scrive.
+Una *pitch email* deve essere accattivante, diretta, entusiasta ed esaustiva, ma **breve**.  
+Una delle caratteristiche particolari delle *pitch email* di Scambi è che vengono <mark>messe in evidenza la **personalità** e gli **interessi**</mark> di chi le scrive.
 
 In non più di quindici righe, deve contenere le seguenti informazioni:
 
 * **Chi** scrive e perché scrive
 * **Cos’è** Scambi, in non più di due frasi, poiché la spiegazione completa si troverà nella [**presentazione**](https://x.scambi.org/presentazione.pdf) che deve essere <mark>sempre allegata</mark>.
-* **Perché** stiamo contattando <mark>_proprio_ te/voi</mark>?
+* **Perché** stiamo contattando <mark>*proprio* te/voi</mark>?
 * Possiamo sentirci/vederci?
 
 !!! info "Obiettivo"
