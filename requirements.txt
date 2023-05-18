@@ -3,7 +3,6 @@ Babel>=2.10.3
 bcrypt>=3.2.2
 Beaker>=1.12.1
 beautifulsoup4>=4.12.2
-Brlapi>=0.8.4
 cairocffi>=1.4.0
 CairoSVG>=2.5.2
 certifi>=2022.9.24
