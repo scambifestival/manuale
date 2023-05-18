@@ -8,10 +8,10 @@ Per un efficace sfruttamento della struttura secondo cui lo staff è organizzato
 
 Come deliberato nella [riunione dei Team Leaders del 16 giugno 2022](https://nuvola.scambi.org/s/C4wd6C6Y6rRXMtm), settimanalmente un membro di ciascun gruppo deve inviare su _Scambi STAFF_ un messaggio che contenga le seguenti informazioni riguardanti <mark>il proprio team</mark>.
 
-* Elenco puntato con il <mark>programma degli</mark> <mark></mark><mark>**obiettivi**</mark> per i successivi ≥7 giorni
+* Elenco puntato con il <mark>programma degli **obiettivi**</mark> per i successivi ≥7 giorni
 * <mark>**Verifica**</mark> degli obiettivi posti la settimana precedente
-* Importanti <mark>decisioni e</mark> <mark></mark><mark>**comunicazioni**</mark>
-* Condivisione data stabilita per la <mark>prossima</mark> <mark></mark><mark>**riunione**</mark> del team
+* Importanti <mark>decisioni e **comunicazioni**</mark>
+* Condivisione data stabilita per la <mark>prossima **riunione**</mark> del team
 
 Il messaggio **non** deve contenere:
 

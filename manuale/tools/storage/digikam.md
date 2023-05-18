@@ -3,7 +3,7 @@ title: 📷 digiKam
 description: Our workflow in exploiting the software we user for managing Scambi Festival’s images
 ---
 !!! info
-	Please, do <mark>read the</mark> [<mark>Storage management</mark>](./) <mark>page first</mark>!
+	Please, do <mark>read the [Storage management](./) page first</mark>!
 
 To manage and store each event’s pictures, we use [digiKam](https://digikam.org), a powerful and cool open source software specifically crafted for this purpose.
 
