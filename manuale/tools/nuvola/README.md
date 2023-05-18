@@ -16,4 +16,4 @@ Nextcloud è fighissimo anche perché offre alcune estensioni che facilitano il 
 * Utilizziamo [_**Collabora Office**_](https://collaboraoffice.com) ([scarica l’app](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)!) per abilitare la modifica collaborativa dei documenti (come Google Docs (🤮))
 
 !!! success ""
-		Nuvola funziona favolosamente per file che usiamo spesso e per la loro condivisione con terzз. Tuttavia, lo spazio che offre è relativamente limitato. Per file vecchi ma importanti, ma soprattutto per <mark>file molto pesanti</mark>, utilizziamo [Cubbit](../storage/cubbit.md).
+	Nuvola funziona favolosamente per file che usiamo spesso e per la loro condivisione con terzз. Tuttavia, lo spazio che offre è relativamente limitato. Per file vecchi ma importanti, ma soprattutto per <mark>file molto pesanti</mark>, utilizziamo [Cubbit](../storage/cubbit.md).
