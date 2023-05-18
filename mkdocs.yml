@@ -1,5 +1,6 @@
 site_name: Manuale di Scambiologia
 docs_dir: manuale
+site_dir: www
 site_url: https://manuale.scambi.org
 repo_url: https://github.com/scambifestival/manuale
 repo_name: scambifestival/manuale
