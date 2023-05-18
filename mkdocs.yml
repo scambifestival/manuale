@@ -41,9 +41,9 @@ plugins:
         - en
         - it
   - social:
-      cards_color:
-        fill: "#69088D" 
-        text: "#FFFFFF"
+      cards_layout_options:
+        background_color: '#69088D' 
+        color: "#FFFFFF"
   - git-revision-date-localized:
       enable_creation_date: true
       type: timeago
