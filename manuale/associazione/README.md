@@ -10,7 +10,7 @@ APS Oltre è iscritta al [Registro degli Enti del Terzo Settore della Regione Li
 
 <dl>
 	<dt>email</dt><dd><a href='mailto:staff@scambi.org' target='_blank' title='Inviaci un’email'>staff@scambi.org</a></dd>
-	<dt>PEC</dt><dd><a href='mailto:aps-oltre@pec.it' target='_blank' title='Inviaci una PEC'>aps-oltre@pec.it</a></dd>
+	<dt>PEC</dt><dd><a href='mailto:oltre@pec.poste.it' target='_blank' title='Inviaci una PEC'>oltre@pec.poste.it</a></dd>
 	<dt>Codice Fiscale</dt><dd>90098410088</dd>
 	<dt>IBAN</dt><dd>IT63E0501801400000016986952</dd>
 	<dt><a href='https://paypal.me/apsoltre' target='_blank' title='PayPal.me di APS Oltre'>PayPal</a></dt><dd>palanche@scambi.org</dd>
