@@ -19,5 +19,4 @@ Ecco quali **soft skills** deve possedere un perfetto camaleonte:
 - **Spirito di squadra:** "tuttu per uno e uno per tuttu", no? Bisogna lavorare insieme come un team coeso, appoggiarsi a vicenda e celebrare i successi insieme.
 - **Adattabilità:** L'ambiente associativo può cambiare velocemente. Un camaleonte deve essere flessibile e adattarsi ai cambiamenti senza perdere di vista la direzione.
 
-  
 In breve, il camaleonte è un punto di riferimento per l'associazione, un ambasciatore e un capitano, tutto in uno! Sì, può sembrare impegnativo, ma è anche incredibilmente gratificante. Aiutare a dare forma al futuro dell'associazione è un'esperienza che non ha prezzo!
